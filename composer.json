@@ -1,0 +1,16 @@
+{
+    "name": "beto/retrucho",
+    "authors": [
+        {
+            "name": "beto",
+            "email": "ribeiro.beton@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.6",
+        "components/jquery": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
